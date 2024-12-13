@@ -17,6 +17,6 @@ Clean Architecture
 
 ## App Preview
 
-[Appetize](https://appetize.io/app/b_odxouefqxhbuyufcwzt4w5df4q)
+click on the link below to see the app in action([Appetize](https://appetize.io/app/b_odxouefqxhbuyufcwzt4w5df4q))
 
 Feel free to explore, contribute, or use this as a base for your own projects!
