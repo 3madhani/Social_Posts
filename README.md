@@ -15,4 +15,8 @@ Flutter
 BLoC (Business Logic Component)
 Clean Architecture
 
+## App Preview
+
+[Appetize](https://appetize.io/app/b_odxouefqxhbuyufcwzt4w5df4q)
+
 Feel free to explore, contribute, or use this as a base for your own projects!
